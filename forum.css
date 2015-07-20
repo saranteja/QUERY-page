@@ -1,0 +1,122 @@
+* {
+  margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body {
+  background-color:black;
+	
+}
+#container{
+  margin:auto;
+	width:1000px;
+    background-color:#FFFFFF;
+	padding:10px;
+}
+#container1{
+  margin:auto;
+	width:1000px;
+	padding:10px;
+}
+
+#content{
+  margin:50px;
+  }
+
+#user1{
+  position:absolute;
+  margin-left:300px;
+  margin-top:-180px;
+  width:150px;
+  color:black;
+  z-index:2;
+}
+h1{
+ color:white;
+ margin-top:50px;
+  }
+  
+ form{
+    color:white;
+	}
+ 
+ #signup{
+   color:white;
+ }
+ 
+ .menu1:link, .menu1:visited {
+text-decoration: none;
+font-family: Arial,Helvetica,sans-serif;
+font-size: 18px;
+color: #66FF33;
+z-index: 12;
+}
+ 
+ .menu1:hover,.menu1:active{
+
+	text-decoration:none;
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:18px;
+	color:#00CC00;
+	z-index:12;
+}
+ 
+ #login{
+    font-family: Arial Black, Gadget, sans-serif;
+    font-size: 18px;
+    color: #66FF33;
+    z-index: 12;
+	text-decoration:underline;
+}
+#login:hover{
+    font-family: Arial Black, Gadget, sans-serif;
+    font-size: 18px;
+    color: #66FF33;
+    z-index: 12;
+	text-decoration:none;
+}
+textarea {
+	width: 500px;
+	height: 200px;
+}
+
+#delete{
+text-align:right;
+}
+#delete:hover{
+text-decoration:none;
+}
+#table{
+width:700px;
+border:2px ;
+border-color:sienna;
+margin-left:150px;
+margin-top:50px;
+}
+#tab_head{
+background-color:sienna;
+}
+#topic_col{
+background-color:#EEC9A6;
+padding:5px;
+}
+ .leftpart{
+ width:70%
+ }
+ 
+#topic_sub:link,#topic_sub:visited{
+color:black;
+font-size:20px;
+text-decoration:underline;
+}
+#topic_sub:hover,#topic_sub:active{
+color:black;
+font-size:20px;
+text-decoration:none;
+}
+
+
+
+
+ 
